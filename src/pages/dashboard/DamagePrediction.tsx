@@ -1,5 +1,5 @@
 import { TrendingUp, AlertTriangle } from 'lucide-react'
-import { Card, CardHeader, Badge } from '../../components/ui'
+import { Card, CardHeader } from '../../components/ui'
 import { mockDamagePredictions } from '../../data/mock'
 import { clsx } from 'clsx'
 

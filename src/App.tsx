@@ -17,7 +17,7 @@ import {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Heritage_AI/">
       <Routes>
         {/* All routes wrapped inside the AppShell (sidebar + header) */}
         <Route element={<AppShell />}>
